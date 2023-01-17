@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tekhlay/react-todo-app.git/static/css/main.1a084a32.css",
+    "main.js": "/Tekhlay/react-todo-app.git/static/js/main.75a754a0.js",
+    "index.html": "/Tekhlay/react-todo-app.git/index.html",
+    "main.1a084a32.css.map": "/Tekhlay/react-todo-app.git/static/css/main.1a084a32.css.map",
+    "main.75a754a0.js.map": "/Tekhlay/react-todo-app.git/static/js/main.75a754a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a084a32.css",
+    "static/js/main.75a754a0.js"
+  ]
+}
