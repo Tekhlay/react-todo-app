@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[React TODO List]** is a single page website wich allows clients to add theier dayly todo list item and manage it successfully by editing the task, deleting the completed task and set new tasks.
+**[React TODO APP]** is a single page website wich allows clients to add theier dayly todo list item and manage it successfully by editing the task, deleting the completed task and set new tasks.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -109,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://tekhlay.github.io/react-todo-app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,7 +152,7 @@ Example commands:
 
 `sh
 cd my-folder
-git clone https://github.com/Tekhlay/React-TODO-List.git
+git clone https://github.com/Tekhlay/react-todo-app.git
 
 ````
 
